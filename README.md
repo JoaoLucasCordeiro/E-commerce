@@ -4,5 +4,10 @@
 
 ### O projeto em ação:
 
+https://user-images.githubusercontent.com/89361241/159731530-5aec3db3-d65c-4ed9-9dc3-1de7e07e79aa.mp4
+
+### tecnologias utilizadas:
+
+
 
 
